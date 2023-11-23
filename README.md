@@ -19,7 +19,7 @@ Clone the Repository: git clone https://github.com/shanvi14/Predictive-analysis-
 
 Install Dependencies: pip install -r requirements.txt
 
-Run the Analysis: Execute the main analysis script: python song_popularity_analysis.py
+Run the Analysis: Execute the main analysis script: main.ipynb
 
 Explore Results: Review the generated insights, visualizations, and analysis in the output folder.
 
